@@ -1,0 +1,15 @@
+/Users/zelamkh/C#HomeWork7/HW.Task47/bin/Debug/net6.0/HW.Task47
+/Users/zelamkh/C#HomeWork7/HW.Task47/bin/Debug/net6.0/HW.Task47.deps.json
+/Users/zelamkh/C#HomeWork7/HW.Task47/bin/Debug/net6.0/HW.Task47.runtimeconfig.json
+/Users/zelamkh/C#HomeWork7/HW.Task47/bin/Debug/net6.0/HW.Task47.dll
+/Users/zelamkh/C#HomeWork7/HW.Task47/bin/Debug/net6.0/HW.Task47.pdb
+/Users/zelamkh/C#HomeWork7/HW.Task47/obj/Debug/net6.0/HW.Task47.csproj.AssemblyReference.cache
+/Users/zelamkh/C#HomeWork7/HW.Task47/obj/Debug/net6.0/HW.Task47.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zelamkh/C#HomeWork7/HW.Task47/obj/Debug/net6.0/HW.Task47.AssemblyInfoInputs.cache
+/Users/zelamkh/C#HomeWork7/HW.Task47/obj/Debug/net6.0/HW.Task47.AssemblyInfo.cs
+/Users/zelamkh/C#HomeWork7/HW.Task47/obj/Debug/net6.0/HW.Task47.csproj.CoreCompileInputs.cache
+/Users/zelamkh/C#HomeWork7/HW.Task47/obj/Debug/net6.0/HW.Task47.dll
+/Users/zelamkh/C#HomeWork7/HW.Task47/obj/Debug/net6.0/refint/HW.Task47.dll
+/Users/zelamkh/C#HomeWork7/HW.Task47/obj/Debug/net6.0/HW.Task47.pdb
+/Users/zelamkh/C#HomeWork7/HW.Task47/obj/Debug/net6.0/HW.Task47.genruntimeconfig.cache
+/Users/zelamkh/C#HomeWork7/HW.Task47/obj/Debug/net6.0/ref/HW.Task47.dll
